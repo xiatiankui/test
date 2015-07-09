@@ -5,3 +5,4 @@ Created on 2015/07/09
 '''
 if True:
     print 'ddd'
+    print 'CCC'
